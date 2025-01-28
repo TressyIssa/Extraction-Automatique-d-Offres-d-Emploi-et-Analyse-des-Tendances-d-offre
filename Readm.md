@@ -90,7 +90,8 @@ et à analyser ces données pour identifier les tendances du marché du travail 
 ### **Étape 1 : Extraction Automatique**
 1. Clonez ce dépôt sur votre machine locale :
    ```bash
-   git clone https://github.com/votre-utilisateur/votre-repo.git
+   git clone https://github.com/TressyIssa/Extraction-Automatique-d-Offres-d-Emploi-et-Analyse-des-Tendances-d-offre.git
+   
    ```
 2. Installez les dépendances nécessaires :
    ```bash

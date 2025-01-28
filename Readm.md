@@ -81,6 +81,7 @@ et à analyser ces données pour identifier les tendances du marché du travail 
 ### **Exemple de Tableau de Bord Power BI**
 
 - Répartition géographique :
+  
  ![powerBI](https://github.com/user-attachments/assets/cefa8a86-58f3-492c-9475-ff948369437d)
 ---
 
@@ -122,6 +123,6 @@ Il s'agit d'un outil pratique pour quiconque souhaite suivre et analyser les opp
 ---
 
 ## **10. Auteur**
-- **Nom** : [ISSA Fiti]
-- **Contact** : [Issafiti02@gmail.com]
+- **Nom** : ISSA Fiti
+- **Contact** : Issafiti02@gmail.com
 ---

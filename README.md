@@ -82,7 +82,8 @@ et à analyser ces données pour identifier les tendances du marché du travail 
 
 - Répartition géographique :
   
- ![powerBI](https://github.com/user-attachments/assets/cefa8a86-58f3-492c-9475-ff948369437d)
+![powerBI](https://github.com/user-attachments/assets/a3c0c413-b369-4ac8-8681-3efdce9f59bd)
+
 ---
 
 ## **7. Comment Utiliser ce Projet**

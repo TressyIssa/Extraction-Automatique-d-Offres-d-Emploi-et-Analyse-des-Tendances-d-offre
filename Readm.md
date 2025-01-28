@@ -22,11 +22,8 @@ et à analyser ces données pour identifier les tendances du marché du travail 
 
 ### **B. Analyse des Tendances avec Power BI**
 - Visualisations dynamiques incluant :
-  - Nombre d'offres par poste.
   - Répartition géographique des offres.
   - Évolution temporelle des offres.
-  - Analyse des mots-clés pour repérer les compétences les plus demandées.
-
 ---
 
 ## **3. Technologies Utilisées**
@@ -83,12 +80,8 @@ et à analyser ces données pour identifier les tendances du marché du travail 
 
 ### **Exemple de Tableau de Bord Power BI**
 
-- Nombre d'offres par titre :
-  ![Exemple Graphique Titre](https://via.placeholder.com/600x300) *(Remplacer avec un vrai graphique)*
-
 - Répartition géographique :
-  ![Exemple Carte](https://via.placeholder.com/600x300) *(Remplacer avec une vraie carte)*
-
+ ![powerBI](https://github.com/user-attachments/assets/cefa8a86-58f3-492c-9475-ff948369437d)
 ---
 
 ## **7. Comment Utiliser ce Projet**

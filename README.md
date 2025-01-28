@@ -126,5 +126,5 @@ Il s'agit d'un outil pratique pour quiconque souhaite suivre et analyser les opp
 
 ## **10. Auteur**
 - **Nom** : ISSA Fiti
-- **Contact** : Issafiti02@gmail.com
+- **Email** : Issafiti02@gmail.com
 ---
